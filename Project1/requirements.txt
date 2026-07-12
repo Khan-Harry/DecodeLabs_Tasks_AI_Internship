@@ -1,0 +1,5 @@
+# This project relies entirely on the Python Standard Library.
+# No external third-party dependencies are required.
+#
+# To run the chatbot, simply execute:
+# python chatbot.py
